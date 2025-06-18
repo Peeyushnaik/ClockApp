@@ -16,4 +16,4 @@ A simple and elegant **digital clock** application built using **React.js**. It 
 ## 🛠️ Built With
 
 - [React.js](https://reactjs.org/)
-- 
+- HTML , CSS , JAVASCRIPT
